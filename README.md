@@ -5,4 +5,4 @@
 - 📫 How to reach me: [Email]
 - 💻 Currently learning Java and Python
 
-[Email]: aditya.khadkikar9954@outlook.com
+[Email]: mailto:aditya.khadkikar9954@outlook.com
