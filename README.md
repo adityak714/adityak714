@@ -3,8 +3,8 @@ I'm a 1st year Software Engineering and Management student. I am striving and ea
 
 - 🌱 I’m currently learning Software Engineering and Management.
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: Email [website]
+- 📫 How to reach me: [Email]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[website]: aditya.khadkikar9954@outlook.com
+[Email]: aditya.khadkikar9954@outlook.com
