@@ -1,8 +1,11 @@
 ## Hi there 👋, I am Aditya Khadkikar!
 
-- 🌱 I’m currently a 1st Year student learning Software Engineering and Management.
+- 🌱 I’m currently a student learning Software Engineering and Management.
 - 🎓 Studying at the University of Gothenburg, Sweden.
 - 📫 How to reach me: [Email]
-- 💻 Currently learning Java and Python
+- 💻 Mainly worked with Java, C, HTML/CSS, Javascript and Typescript
+- <strong>Frameworks:</strong> Vue, NodeJS, React (Library)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityak714&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [Email]: mailto:aditya.khadkikar9954@outlook.com
