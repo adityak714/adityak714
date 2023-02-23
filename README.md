@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Aditya Khadkikar!
 
 - 🌱 I’m currently a student learning Software Engineering and Management.
-- 🎓 Studying jointly at the University of Gothenburg and Chalmers University of Technology, Sweden.
+- 🎓 Studying jointly at the University of Gothenburg and Chalmers UoT, Sweden.
 - 📫 How to reach me: [Email]
 - 💻 Mainly worked with Java, C, HTML/CSS, Javascript and Typescript
 - <strong>Frameworks:</strong> Vue, NodeJS, React (Library)
