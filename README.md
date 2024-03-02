@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Aditya Khadkikar!
 
-- 🌱 I’m currently a student learning Software Engineering and Management.
+- 🌱 I’m currently a student in BSc Software Engineering and Management.
 - 🎓 Studying jointly at the University of Gothenburg and Chalmers UoT, Sweden.
 - 📫 How to reach me: [Email]
 - 💻 Mainly worked with **Java**, **Python**, & **Docker**, with some experience in Typescript, Javascript, and HTML/CSS
