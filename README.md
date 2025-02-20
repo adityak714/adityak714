@@ -10,4 +10,4 @@
 
 [Email]: mailto:email.empathy061@passinbox.com
 
-![View my CV here!](https://embed.figma.com/proto/CIb7MVYO253E1esRtVFoOy/My-CV?node-id=9-2&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A2&embed-host=share)
+[View my CV here!](https://embed.figma.com/proto/CIb7MVYO253E1esRtVFoOy/My-CV?node-id=9-2&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A2&embed-host=share)
