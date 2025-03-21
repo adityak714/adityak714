@@ -4,7 +4,10 @@
 - 🎓 Received Bachelor's degree in Software Engineering & Mgmt. from the University of Gothenburg and Chalmers UoT, Sweden.
 - 📫 How to reach me: [Email]
 - 💻 Mainly worked with **Python**, **Docker** and **Java**, with experience in Typescript, Javascript, and HTML/CSS 
-- <strong>Frameworks:</strong> VueJS, NodeJS, React (Library)
+- <strong>ML/DL Frameworks and Numerical Libraries:</strong>
+  - PyTorch, TensorFlow, Numpy, Pandas (Numerical Computation and Data Analysis)
+- <strong>Web Frameworks:</strong>
+  - VueJS, NodeJS, ReactJS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityak714&layout=compact&card_width=1000px)](https://github.com/anuraghazra/github-readme-stats)
 
