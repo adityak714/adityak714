@@ -3,7 +3,7 @@
 - 🌱 Currently a Master's student in Data Science - ML and Statistics at Uppsala University.
 - 🎓 Received a Bachelor's degree in Software Engineering & Mgmt. from the University of Gothenburg and Chalmers UoT, Sweden.
 - 📫 How to reach me: [Email].
-- 💻 View my <a href="https://adityak714.github.io" target="_blank">detailed portfolio</a>. List of technologies and frameworks I have worked with:
+- 💻 View my <a href="https://adityak714.github.io/cv" target="_blank">detailed portfolio</a>. List of technologies and frameworks I have worked with:
   - Mainly worked with **Python** and **Java**, with experience in Typescript, Javascript, and HTML/CSS.
   - <strong>ML/DL Frameworks and Numerical Libraries:</strong>
     - PyTorch, TensorFlow, Pandas, Numpy (Numerical Computation and Data Analysis)
